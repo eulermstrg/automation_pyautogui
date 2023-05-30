@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="312553bf-65cf-43b6-8e2d-7d5c77a8bc1b" name="Changes" comment="Update workspace // create main_test.py">
-      <change afterPath="$PROJECT_DIR$/Clicker/bot_clicker_for_istagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clicker/resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands" beforeDir="false" afterPath="$PROJECT_DIR$/Spiral/commands" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spiral_with_pyautogui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spiral/spiral_with_pyautogui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clicker/bot_clicker_for_istagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/bot_clicker_for_istagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
