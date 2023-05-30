@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="312553bf-65cf-43b6-8e2d-7d5c77a8bc1b" name="Changes" comment="Update workspace // create main_test.py">
-      <change beforePath="$PROJECT_DIR$/Clicker/bot_clicker_for_istagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/bot_clicker_for_istagram.py" afterDir="false" />
-    </list>
+    <list default="true" id="312553bf-65cf-43b6-8e2d-7d5c77a8bc1b" name="Changes" comment="Update workspace // create main_test.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
