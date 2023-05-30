@@ -19,7 +19,7 @@ while distance > 0:
     pyautogui.dragRel(0, -distance, 1, button='left')
 
 # Time window created to assign fail-safe, \
-# once the application masters control of your gadgets
+# once the application masters control of your gadgets \
 # in case of a crash, move the mouse to the upper corner \
 # (close windows) as a fail-safe strategy
     time.sleep(4)
