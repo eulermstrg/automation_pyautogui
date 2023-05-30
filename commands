@@ -1,0 +1,27 @@
+# time.sleep(3)  # Preset time for position collection
+
+# Mouse Functions
+# Prints the resolution of your screen
+# print(pyautogui.size())
+
+# Prints the current position of the mouse
+# print(pyautogui.position())
+
+# Move the mouse over time (2 seconds)
+# It is important to remember that the third parameter (c) \
+# is the speed at which the cursor will reach the new position \
+# sent by parameters a, b (x , y) in the Cartesian plane
+# pyautogui.moveTo(960, 540, 2)
+
+# Move the mouse relative to its current position
+# pyautogui.moveRel(100, 100, 2)
+
+# Click
+# Example:
+# pyautogui.doubleClick(1432, 386, 2,  button='left')
+
+# Scrolls up
+# pyautogui.scroll(500)
+
+# Scrolls down (- number)
+# pyautogui.scroll(-500)
