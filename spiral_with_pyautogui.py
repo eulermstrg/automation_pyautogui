@@ -23,3 +23,5 @@ while distance > 0:
 # in case of a crash, move the mouse to the upper corner \
 # (close windows) as a fail-safe strategy
     time.sleep(4)
+
+
