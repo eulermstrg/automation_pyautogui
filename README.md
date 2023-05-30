@@ -1,4 +1,4 @@
-# Automation_pyautogui
+# Automation with pyautogui
  Mini project for testing the pyautogui library
  
  # When using this code, it is essential to consider two aspects:
